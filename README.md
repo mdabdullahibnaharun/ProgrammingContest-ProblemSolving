@@ -1,5 +1,5 @@
 # ProgrammingContest-ProblemSolving
- Programming Problem Solving by using C/C++
+ Programming Problem Solving by using C/C++ & STL
 
 
 
